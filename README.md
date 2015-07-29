@@ -1,2 +1,4 @@
 # blog
-For personal blogging
+For personal blogging. 
+
+[Read here](//github.com/practice/blog/issues)
